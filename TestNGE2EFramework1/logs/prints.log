@@ -1,0 +1,18 @@
+22:32:52.035 [main] INFO  com.app.qa.util.WebEventListener - Element clicked
+22:32:52.042 [main] INFO  com.app.qa.base.TestBase - Entered the Departure date
+22:32:52.042 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: input[placeholder='Return']
+22:32:52.058 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:52.059 [main] INFO  com.app.qa.util.WebEventListener - Trying to click on the element[[ChromeDriver: chrome on WINDOWS (06574f33df32a698e5e6f81a5205522e)] -> css selector: input[placeholder='Return']]
+22:32:52.220 [main] INFO  com.app.qa.util.WebEventListener - Element clicked
+22:32:52.220 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.xpath: //div[@aria-label='Fri Nov 20 2020' and @aria-disabled='false']
+22:32:52.237 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:52.237 [main] INFO  com.app.qa.util.WebEventListener - Trying to click on the element[[ChromeDriver: chrome on WINDOWS (06574f33df32a698e5e6f81a5205522e)] -> xpath: //div[@aria-label='Fri Nov 20 2020' and @aria-disabled='false']]
+22:32:52.333 [main] INFO  com.app.qa.util.WebEventListener - Element clicked
+22:32:52.333 [main] INFO  com.app.qa.base.TestBase - Entered the Return date
+22:32:52.333 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: button[value='Search']
+22:32:52.353 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:52.353 [main] INFO  com.app.qa.util.WebEventListener - Trying to click on the element[[ChromeDriver: chrome on WINDOWS (06574f33df32a698e5e6f81a5205522e)] -> css selector: button[value='Search']]
+22:32:52.669 [main] INFO  com.app.qa.util.WebEventListener - Element clicked
+22:32:52.669 [main] INFO  com.app.qa.base.TestBase - Clicked on Search button
+22:32:55.890 [main] INFO  com.app.qa.base.TestBase - Driver exit
+22:32:55.890 [main] INFO  com.app.qa.base.TestBase - TestCase Completed

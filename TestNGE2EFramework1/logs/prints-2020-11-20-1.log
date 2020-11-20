@@ -1,0 +1,81 @@
+22:31:35.997 [main] INFO  com.app.qa.base.TestBase - TestCase Started
+22:31:42.824 [main] INFO  com.app.qa.util.WebEventListener - Current url : data:,
+22:31:53.576 [main] INFO  com.app.qa.util.WebEventListener - Navigated to url : https://www.goibibo.com/
+22:31:53.576 [main] INFO  com.app.qa.base.TestBase - Driver is initialized and navigated to url
+22:31:53.598 [main] INFO  com.app.qa.base.TestBase - The page title is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+22:31:53.609 [main] INFO  com.app.qa.util.WebEventListener - Before Screenshot- OutputType.FILE
+22:31:54.350 [main] INFO  com.app.qa.util.WebEventListener - After Screenshot- OutputType.FILE
+22:31:57.328 [main] INFO  com.app.qa.base.TestBase - Driver exit
+22:31:57.329 [main] INFO  com.app.qa.base.TestBase - TestCase Completed
+22:31:57.952 [main] INFO  com.app.qa.base.TestBase - TestCase Started
+22:32:01.539 [main] INFO  com.app.qa.util.WebEventListener - Current url : data:,
+22:32:12.250 [main] INFO  com.app.qa.util.WebEventListener - Navigated to url : https://www.goibibo.com/
+22:32:12.250 [main] INFO  com.app.qa.base.TestBase - Driver is initialized and navigated to url
+22:32:12.256 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: input[placeholder='From']
+22:32:12.279 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:12.287 [main] INFO  com.app.qa.util.WebEventListener - Before changing value in the element : [[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='From']]
+22:32:12.399 [main] INFO  com.app.qa.util.WebEventListener - The value is changed in the element : [[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='From']]
+22:32:12.399 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.id: react-autosuggest-1
+22:32:12.633 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:12.689 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: input[placeholder='From']
+22:32:12.702 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:12.706 [main] INFO  com.app.qa.util.WebEventListener - Before changing value in the element : [[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='From']]
+22:32:12.749 [main] INFO  com.app.qa.util.WebEventListener - The value is changed in the element : [[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='From']]
+22:32:12.749 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: input[placeholder='From']
+22:32:12.764 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:12.764 [main] INFO  com.app.qa.util.WebEventListener - Before changing value in the element : [[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='From']]
+22:32:12.845 [main] INFO  com.app.qa.util.WebEventListener - The value is changed in the element : [[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='From']]
+22:32:12.845 [main] INFO  com.app.qa.base.TestBase - Entered the 'From' location
+22:32:12.845 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: input[placeholder='Destination']
+22:32:12.866 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:12.866 [main] INFO  com.app.qa.util.WebEventListener - Before changing value in the element : [[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='Destination']]
+22:32:12.944 [main] INFO  com.app.qa.util.WebEventListener - The value is changed in the element : [[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='Destination']]
+22:32:12.944 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.id: react-autosuggest-1
+22:32:13.220 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:13.257 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: input[placeholder='Destination']
+22:32:13.270 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:13.270 [main] INFO  com.app.qa.util.WebEventListener - Before changing value in the element : [[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='Destination']]
+22:32:13.303 [main] INFO  com.app.qa.util.WebEventListener - The value is changed in the element : [[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='Destination']]
+22:32:13.304 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: input[placeholder='Destination']
+22:32:13.316 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:13.316 [main] INFO  com.app.qa.util.WebEventListener - Before changing value in the element : [[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='Destination']]
+22:32:13.395 [main] INFO  com.app.qa.util.WebEventListener - The value is changed in the element : [[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='Destination']]
+22:32:13.395 [main] INFO  com.app.qa.base.TestBase - Entered the 'To' location
+22:32:13.404 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.xpath: //div[@aria-label='Fri Nov 20 2020' and @aria-disabled='false']
+22:32:13.434 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:13.435 [main] INFO  com.app.qa.util.WebEventListener - Trying to click on the element[[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> xpath: //div[@aria-label='Fri Nov 20 2020' and @aria-disabled='false']]
+22:32:13.533 [main] INFO  com.app.qa.util.WebEventListener - Element clicked
+22:32:13.534 [main] INFO  com.app.qa.base.TestBase - Entered the Departure date
+22:32:13.534 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: input[placeholder='Return']
+22:32:13.551 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:13.552 [main] INFO  com.app.qa.util.WebEventListener - Trying to click on the element[[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: input[placeholder='Return']]
+22:32:13.696 [main] INFO  com.app.qa.util.WebEventListener - Element clicked
+22:32:13.696 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.xpath: //div[@aria-label='Fri Nov 20 2020' and @aria-disabled='false']
+22:32:13.723 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:13.723 [main] INFO  com.app.qa.util.WebEventListener - Trying to click on the element[[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> xpath: //div[@aria-label='Fri Nov 20 2020' and @aria-disabled='false']]
+22:32:13.827 [main] INFO  com.app.qa.util.WebEventListener - Element clicked
+22:32:13.828 [main] INFO  com.app.qa.base.TestBase - Entered the Return date
+22:32:13.828 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: button[value='Search']
+22:32:13.847 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:13.848 [main] INFO  com.app.qa.util.WebEventListener - Trying to click on the element[[ChromeDriver: chrome on WINDOWS (48fd8c0fa255b4692edf0f4c2a10b3ad)] -> css selector: button[value='Search']]
+22:32:14.080 [main] INFO  com.app.qa.util.WebEventListener - Element clicked
+22:32:14.080 [main] INFO  com.app.qa.base.TestBase - Clicked on Search button
+22:32:17.437 [main] INFO  com.app.qa.base.TestBase - Driver exit
+22:32:17.437 [main] INFO  com.app.qa.base.TestBase - TestCase Completed
+22:32:17.438 [main] INFO  com.app.qa.base.TestBase - TestCase Started
+22:32:21.012 [main] INFO  com.app.qa.util.WebEventListener - Current url : data:,
+22:32:32.092 [main] INFO  com.app.qa.util.WebEventListener - Navigated to url : https://www.goibibo.com/
+22:32:32.092 [main] INFO  com.app.qa.base.TestBase - Driver is initialized and navigated to url
+22:32:32.096 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: input[placeholder='From']
+22:32:32.119 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:32.119 [main] INFO  com.app.qa.util.WebEventListener - Before changing value in the element : [[ChromeDriver: chrome on WINDOWS (67f2b748e296b2b6290ec8fb2448c2a1)] -> css selector: input[placeholder='From']]
+22:32:32.241 [main] INFO  com.app.qa.util.WebEventListener - The value is changed in the element : [[ChromeDriver: chrome on WINDOWS (67f2b748e296b2b6290ec8fb2448c2a1)] -> css selector: input[placeholder='From']]
+22:32:32.242 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.id: react-autosuggest-1
+22:32:32.526 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:32.557 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: input[placeholder='From']
+22:32:32.569 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:32.570 [main] INFO  com.app.qa.util.WebEventListener - Before changing value in the element : [[ChromeDriver: chrome on WINDOWS (67f2b748e296b2b6290ec8fb2448c2a1)] -> css selector: input[placeholder='From']]
+22:32:32.611 [main] INFO  com.app.qa.util.WebEventListener - The value is changed in the element : [[ChromeDriver: chrome on WINDOWS (67f2b748e296b2b6290ec8fb2448c2a1)] -> css selector: input[placeholder='From']]
+22:32:32.612 [main] INFO  com.app.qa.util.WebEventListener - Trying to find the element by By.cssSelector: input[placeholder='From']
+22:32:32.627 [main] INFO  com.app.qa.util.WebEventListener - Element found
+22:32:32.627 [main] INFO  com.app.qa.util.WebEventListener - Before changing value in the element : [[ChromeDriver: chrome on WINDOWS (67f2b748e296b2b6290ec8fb2448c2a1)] -> css selector: input[placeholder='From']]
